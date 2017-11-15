@@ -1,3 +1,3 @@
-10x-cb1.txt is 4M-with-alts-february-2016.txt, distributed by CellRanger but renamed to be more easily discoverable programatically.
+10x-cb1.txt is 737K-august-2016.txt, distributed by CellRanger but renamed to be more easily discoverable programatically.
 
-d54dbc3e1ee6d754e725645261cc227d is the md5 sum in case they update it.
+Information regarding where these barcodes came from is here: https://community.10xgenomics.com/t5/Data-Sharing/List-of-valid-cellular-barcodes/m-p/530#M8
