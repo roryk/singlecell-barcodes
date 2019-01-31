@@ -1,0 +1,5 @@
+{
+    "read1": "(?P<name>[^\\s]+).*\\n(?P<CB1>.{8})GAGTGATTGCTTGTGACGCCTT(?P<CB2>.{8})CGATGACG(?P<seq>.*)\\n\\+(.*)\\n(?P<qual>.*)\\n",
+    "read2": "(?P<name>[^\\s]+).*\\n(?P<seq>.*)\\n\\+(.*)\\n(?P<qual>.*)\\n"
+}
+
